@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+.box-container{
+    display: flex;
+    justify-content: center;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    margin: 1rem;
+    border-radius: 20%;
+}
+.yellow{
+    background-color:#f99b45;
+}
+.red{
+    background-color:#d95980;
+}
+.blue{
+    background-color:#819ff9;
+}
+.sky{
+    background-color:#63aac0;
+}
+.flash{
+    background-color: white;
+}
